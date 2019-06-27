@@ -38,3 +38,5 @@ Getting Started
 Open http://127.0.0.1:8000/ in a web browser to view your application.
 
 ![Login Page](https://github.com/Singh-Sg/UserLogDjagnoReactTest/blob/master/Screenshot%202019-06-27%20at%203.19.59%20PM.png)
+
+![Detail Page](https://github.com/Singh-Sg/UserLogDjagnoReactTest/blob/master/Screenshot%202019-06-27%20at%205.11.03%20PM.png)
